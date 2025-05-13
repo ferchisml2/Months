@@ -47,5 +47,6 @@ public class months {
             default:
                 System.out.println("Numero invalido. Debe ser entre 1 y 12.");
         }
+        System.out.println("Asi es como se agregan los months in english");
     }
 }
